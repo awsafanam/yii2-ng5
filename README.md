@@ -22,7 +22,7 @@ Clone the repository from Github.
 This repository contains all the packages, modules and also a sample code base with User registration / login feature. Following the steps below will guide you to install the latest MEAN version.
 
 ```
-git clone --depth 1 https://github.com/awsafanam/mean-starter.git  
+git clone --depth 1 https://github.com/awsafanam/yii2-ng5.git  
 cd mean-starter
 composer update
 npm install  
